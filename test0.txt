@@ -7,10 +7,6 @@ dddddd
 dddddd
 =======
 update in website
->>>>>>> 6ddfdeb7ed581569123d40944d418d1f14148df3
+>>>>>>> 6ddfdeb7ed581569123d40944d418d1f14148
 
-
-
-push test2222
-
-sublime test 3333
+sublime ssh test
